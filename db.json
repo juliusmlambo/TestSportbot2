@@ -1,0 +1,37 @@
+{
+  "people": [
+
+    {
+      "firstName": "delisa",
+      "middleName": "Julius",
+      "lastName": "Mlambo",
+      "nickName": "Laava",
+      "nationality": "SA",
+      "idNumber": "9898989898989",
+      "mobile": "0832345678",
+      "email": "delisa@gmail.com",
+      "tokenId": "deli3456",
+      "longitude": "12.34455",
+      "latitude": "32.66666",
+      "date": "22/03/11",
+      "time": "11:45",
+      "id": 3
+    },
+    {
+      "firstName": "Delisa",
+      "middleName": "jhkjk",
+      "lastName": "jt787t",
+      "nickName": "tytytyy",
+      "nationality": "tytytyty",
+      "idNumber": "6767867676767",
+      "mobile": "76767878787",
+      "email": "66hghgh",
+      "tokenId": "ghgghgh",
+      "longitude": "2334",
+      "latitude": "3555",
+      "date": "tttrt",
+      "time": "trtrt",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{  "/api/*": 
+    {    "target": "http://160.119.142.236:52773/csp/development/save",
+            "secure": false,
+                "changeOrigin":false
+    }}
